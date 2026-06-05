@@ -6,6 +6,19 @@
 - Apartir disso, criei um sistema que permite realizar o gerenciamento completo de alunos por meio das operações de cadastro, consulta, pesquisa, exclusão e exportação de dados para planilhas Excel.
 
 
+![1](https://github.com/felm115/Sistema-para-Cadastramento-de-dados-com-MySQL-e-Python/blob/main/1.png)
+
+
+![1](https://github.com/felm115/Sistema-para-Cadastramento-de-dados-com-MySQL-e-Python/blob/main/2.png)
+
+
+![1](https://github.com/felm115/Sistema-para-Cadastramento-de-dados-com-MySQL-e-Python/blob/main/3.png)
+
+
+![1](https://github.com/felm115/Sistema-para-Cadastramento-de-dados-com-MySQL-e-Python/blob/main/4.png)
+
+
+
 ## Tecnologias Utilizadas
 
 - Python, Tkinter, MySQL, MySQL Connector e OpenPyXL

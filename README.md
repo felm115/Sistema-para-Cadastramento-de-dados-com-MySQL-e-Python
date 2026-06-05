@@ -3,7 +3,7 @@
 ## Projeto
 
 - Usei Python (Tkinter) para fazer a interface gráfica para o cadastramento dos alunos e MySQL para armazenamento dos dados. 
-- Apartir disso, criei um sistema que permite realizar o gerenciamento completo de alunos por meio das operações de cadastro, consulta, pesquisa, exclusão e exportação de dados para planilhas Excel.
+- A partir disso, criei um sistema que permite realizar o gerenciamento completo de alunos por meio das operações de cadastro, consulta, pesquisa, exclusão e exportação de dados para planilhas Excel.
 
 
 ![1](https://github.com/felm115/Sistema-para-Cadastramento-de-dados-com-MySQL-e-Python/blob/main/1.png)

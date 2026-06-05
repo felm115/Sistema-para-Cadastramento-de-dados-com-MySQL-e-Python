@@ -26,10 +26,10 @@
 
 ## Objetivo do Projeto
 
-Criação de um banco de dados com MySQL
-Integração entre Python e MySQL
-Se necessário, exportar os dados para Excel para uma análise melhor
-Criação de interfaces gráficas profissionais.
+- Criação de um banco de dados com MySQL
+- Integração entre Python e MySQL
+- Se necessário, exportar os dados para Excel para uma análise melhor
+- Criação de interfaces gráficas profissionais.
 
 
 ## Instruções
